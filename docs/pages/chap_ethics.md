@@ -40,9 +40,9 @@
 
 ### Linked URLs and Descriptions
 
-| URL                                                                                                                                      | Description                                                  |
-|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| URL | Description |
+|-----|-------------|
 | [https://doi.org/10.1038/s41597-022-01710-x](https://doi.org/10.1038/s41597-022-01710-x)                                                 | Introduction to the FAIR Principles for research software.  |
 | [https://acts.readthedocs.io/en/latest/contribution/contribution.html](https://acts.readthedocs.io/en/latest/contribution/contribution.html) | Guidelines for maintaining openness and integrity in open-source projects. |
-## Ethics
+
 

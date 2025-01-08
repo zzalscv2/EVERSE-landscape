@@ -84,5 +84,4 @@ Multiple selections were possible
 - [3]: figures/plot_bar_A4.png
 
 This summary reflects responses and practices across various fields of research, emphasizing involvement with software and collaborative clusters in scientific domains.
-## Participation
 

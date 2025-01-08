@@ -67,5 +67,4 @@
 | None present in the original text | N/A | 
 
 (Note: The original text does not contain any linked URLs to include in the table.)
-## Incentives and policies
 

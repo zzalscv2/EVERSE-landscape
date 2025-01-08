@@ -90,5 +90,4 @@
 | [https://opensource.web.cern.ch/welcome-ospo-page](https://opensource.web.cern.ch/welcome-ospo-page) | CERN Open Software Programming Office page. |
 | [https://hepsoftwarefoundation.org/activities/licensing.html](https://hepsoftwarefoundation.org/activities/licensing.html) | HSF's guidelines on software licensing. |
 | [https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) | GitHub’s guide on adding a license to a repository. |
-## Quality aspects: Usability
 

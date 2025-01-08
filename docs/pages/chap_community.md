@@ -123,5 +123,4 @@
 | [https://www.openaire.eu/opentraining](https://www.openaire.eu/opentraining)                                                                                         | OpenAIRE resources for open science training                            |
 | [https://software-carpentry.org](https://software-carpentry.org)                                                                                                     | Software Carpentry's training resources                                 |
 
-## Community involvement
 

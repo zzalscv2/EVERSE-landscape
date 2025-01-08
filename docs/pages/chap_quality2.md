@@ -58,5 +58,4 @@
 | [https://www.w3.org/TR/sparql11-query/](https://www.w3.org/TR/sparql11-query/)       | W3C documentation for SPARQL 1.1 Query Language                  |
 | [https://google.github.io/styleguide/cppguide.html](https://google.github.io/styleguide/cppguide.html) | Google coding style guidelines for C++                        |
 | [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)             | PyCharm IDE by JetBrains                                        |
-## Quality aspects: Standardization
 

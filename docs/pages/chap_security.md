@@ -61,5 +61,4 @@
 | [https://acts.readthedocs.io/en/latest/acts_project.html](https://acts.readthedocs.io/en/latest/acts_project.html) | Resource for testing and validating code accuracy using benchmarks. |
 | [https://www.esciencecenter.nl/wp-content/uploads/2021/07/SMP2021-v1.057.pdf](https://www.esciencecenter.nl/wp-content/uploads/2021/07/SMP2021-v1.057.pdf) | Example of reliability standards in computing and software management plans. |
 | [https://www.tibco.com/glossary/what-is-api-throttling](https://www.tibco.com/glossary/what-is-api-throttling) | Explanation of API throttling as a strategy to prevent misuse. |
-## Software security
 

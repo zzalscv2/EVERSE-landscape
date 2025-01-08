@@ -147,5 +147,4 @@
 | [https://www.softwareheritage.org](https://www.softwareheritage.org) | Software Heritage: an archive of software source code for ensuring the preservation of software.|
 | [https://posit.co/](https://posit.co/)            | Platform formerly known as RStudio, providing tools for data science teams.                   |
 | [https://codebase.helmholtz.cloud,](https://codebase.helmholtz.cloud) | Helmholtz Cloud's codebase repository for software sharing and development.                   |
-## Infrastructure support
 

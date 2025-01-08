@@ -89,5 +89,4 @@
 | [https://codingspeedtest.com](https://codingspeedtest.com)                                                        | A tool mentioned for assessing code speed and efficiency.        |
 | [https://acts.readthedocs.io/en/latest/contribution/physmon.html](https://acts.readthedocs.io/en/latest/contribution/physmon.html) | Documentation for performance monitoring in physics simulations. |
 | [https://acts.readthedocs.io/en/latest/contribution/profiling.html](https://acts.readthedocs.io/en/latest/contribution/profiling.html)   | Documentation on profiling techniques and tools.                 |
-## Quality aspects: Performance
 

@@ -67,5 +67,4 @@
 | [https://docs.github.com/en/actions](https://docs.github.com/en/actions)                                       | GitHub Actions documentation for automating workflows  |
 | [https://docs.python.org/3/library/unittest.html](https://docs.python.org/3/library/unittest.html)             | Official documentation for Python's unittest library   |
 | [https://about.codecov.io/](https://about.codecov.io/)                                                         | Codecov coverage analysis tool                         |
-## Quality aspects: Testing and Reliability
 

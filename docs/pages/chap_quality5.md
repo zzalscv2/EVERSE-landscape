@@ -79,5 +79,4 @@
 | [https://codemeta.github.io/codemeta-generator/](https://codemeta.github.io/codemeta-generator/) | Generator for creating CodeMeta files                                      |
 | [https://github.com/KnowledgeCaptureAndDiscovery/somef/](https://github.com/KnowledgeCaptureAndDiscovery/somef/) | Tool for automating the generation of software metadata                    |
 | [https://citation-file-format.github.io/cff-initializer-javascript/#/](https://citation-file-format.github.io/cff-initializer-javascript/#/) | CFF (Citation File Format) initializer tool for creating citation files   |
-## Quality aspects: Documentation
 

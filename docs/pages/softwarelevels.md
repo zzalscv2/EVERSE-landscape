@@ -267,5 +267,3 @@ Below is a table of all linked URLs with descriptions of each link:
 | [https://zenodo.org/doi/10.5281/zenodo.7540575](https://zenodo.org/doi/10.5281/zenodo.7540575)                                                                                                 | ESCAPE project deliverable on guidelines for research software infrastructure                                                                                                       |
 
 
-## Software levels
-

@@ -62,5 +62,4 @@
 | [https://www.archer2.ac.uk/ecse/](https://www.archer2.ac.uk/ecse/)                                                        | Funding for technical professionals to work on research code |
 | [https://www.esciencecenter.nl](https://www.esciencecenter.nl)                                                            | Netherlands eScience Centre funding           |
 | [https://oscars-project.eu](https://oscars-project.eu)                                                                    | EU OSCARS project with side funding opportunities for research including software |
-## Financial support
 
