@@ -45,5 +45,83 @@
 ### Level of confidence for answers in this section
 
 ![Level of confidence for answers in this section](figures/plot_rating_A86.png)
+## Auto-created summary
+### Summary of Mentioned Practices
+
+1. **Co-Creation with Stakeholders**
+   - Guideline: OpenAIRE Interoperability Guidelines
+   - Description: Collaboration with stakeholders to create shared solutions.
+   - [Relevance Rank: 7]
+
+2. **Training and Tutorials**
+   - Guideline: Various guidelines including resources from CERN and Software Carpentry
+   - Description: Offering training and tutorials to disseminate knowledge and enhance participant skills.
+   - [Relevance Rank: 6, 10, 22]
+
+3. **Journal Guidelines for Software Publications**
+   - Guideline: JOSS
+   - Description: Guidelines provided for publishing software in academic journals.
+   - [Relevance Rank: 8]
+
+4. **Ability to Perform Pull Requests and Open Issues**
+   - Guideline: GitHub guidelines for repository contributions
+   - Description: Encouraging contributions through clear repository guidelines.
+   - [Relevance Rank: 12]
+
+5. **Enabling Community Contribution with Use of Code Repositories**
+   - Guideline: Public GitHub repositories
+   - Description: Facilitating community contributions via accessible code repositories.
+   - [Relevance Rank: 20]
+
+6. **Monitoring Software Usage for Feedback**
+   - Guideline: Matomo for web applications
+   - Description: Tracking software usage to improve user experience and functionality.
+   - [Relevance Rank: 20]
+
+7. **Open Science Training and Advocacy**
+   - Guideline: OpenAIRE Open Training resources
+   - Description: Promoting open science practices through training.
+   - [Relevance Rank: 7]
+
+8. **Open Decision Making**
+   - Description: Involving community in decision-making processes.
+   - [Relevance Rank: 21]
+
+9. **Publication and Presentation Repositories**
+   - Guideline: Various platforms including Zenodo, Indico, and InspireHEP
+   - Description: Providing repositories for sharing academic publications and presentations.
+   - [Relevance Rank: 6]
+
+10. **Team Building in Scientific Communities**
+    - Guideline: Gammapy team example
+    - Description: Building cohesive teams within scientific collaborations.
+    - [Relevance Rank: 10]
+
+11. **deRSE Position Paper**
+    - Description: Document addressing research software inclusion and practices.
+    - [Relevance Rank: 11]
+
+### Linked URLs and Descriptions
+
+| URL                                                                                                                                                                  | Description                                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| [https://guidelines.openaire.eu/en/latest/](https://guidelines.openaire.eu/en/latest/)                                                                               | Guidelines for interoperability in open science practices               |
+| [https://joss.readthedocs.io/en/latest/index.html](https://joss.readthedocs.io/en/latest/index.html)                                                                 | Journal of Open Source Software (JOSS) guidelines                       |
+| [https://gammapy.org/team.html](https://gammapy.org/team.html)                                                                                                       | Example of team building within a scientific project                    |
+| [https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) | GitHub guidelines for repository contributions                          |
+| [https://indico.cern.ch/event/1295479/overview](https://indico.cern.ch/event/1295479/overview)                                                                       | Example of training and tutorials provided in developer workshops       |
+| [https://lms.cern.ch/](https://lms.cern.ch/)                                                                                                                         | CERN training resources                                                 |
+| [https://hepsoftwarefoundation.org/workinggroups/training.html](https://hepsoftwarefoundation.org/workinggroups/training.html)                                       | High Energy Physics Software Foundation training group                  |
+| [https://lhcb.github.io/starterkit-lessons/](https://lhcb.github.io/starterkit-lessons/)                                                                            | Training materials for LHCb                                             |
+| [https://escape2020.github.io](https://escape2020.github.io)                                                                                                         | Community event training example                                        |
+| [https://matomo.org/)](https://matomo.org/))                                                                                                                         | Analytics tool for monitoring software usage                            |
+| [https://zenodo.org/](https://zenodo.org/)                                                                                                                           | Repository for sharing academic publications and presentations          |
+| [https://indico.cern.ch/](https://indico.cern.ch/)                                                                                                                   | CERN's platform for scheduling meetings and events                      |
+| [https://inspirehep.net/](https://inspirehep.net/)                                                                                                                   | Database for high-energy physics academic papers                        |
+| [https://cds.cern.ch/?ln=en](https://cds.cern.ch/?ln=en)                                                                                                             | CERN Document Server for collecting and maintaining CERN documentations |
+| [https://edms-service.web.cern.ch/faq/EDMS/pages/](https://edms-service.web.cern.ch/faq/EDMS/pages/)                                                                 | CERN's Engineering Data Management Service                              |
+| [https://www.openaire.eu/opentraining](https://www.openaire.eu/opentraining)                                                                                         | OpenAIRE resources for open science training                            |
+| [https://software-carpentry.org](https://software-carpentry.org)                                                                                                     | Software Carpentry's training resources                                 |
+
 ## Community involvement
 

@@ -27,5 +27,45 @@
 | 21 | The unwritten policy of honour amongst engineers                |
 | 26 | EU funding programmes                                           |
 
+## Auto-created summary
+### Summary of Practices
+
+- **Increase Recognition of Research Software Engineering Work**:
+  - Highlight the importance of recognizing research software engineers in scientific experiments, beyond just reputation.
+  
+- **Pride and Vanity**:
+  - Personal satisfaction and pride as incentives for engaging in research software activities.
+  
+- **Sharing of Code**:
+  - Encouragement of code distribution and sharing among peers.
+  
+- **Gamification**:
+  - Use of gamification elements like badges to motivate engagement and performance.
+  
+- **Professional Development**:
+  - Gain experience using best practices for professional growth.
+  
+- **Genuine Interest in Results/Science**:
+  - Personal interest in outcomes drives participation in research software development.
+  
+- **Increase User Base and Technology Transfer**:
+  - Focus on expanding the user base and exploring technology transfer options.
+  
+- **Research Infrastructure Policy**:
+  - Emphasis on developing and implementing policies related to research infrastructure.
+  
+- **Honour Amongst Engineers**:
+  - Adherence to a cultural or unwritten policy of mutual respect and ethics among engineers.
+  
+- **EU Funding Programmes**:
+  - Involvement and consideration of European Union funding opportunities.
+
+### Linked URLs Table
+
+| URL | Description |
+|-----|-------------|
+| None present in the original text | N/A | 
+
+(Note: The original text does not contain any linked URLs to include in the table.)
 ## Incentives and policies
 

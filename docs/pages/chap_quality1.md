@@ -55,5 +55,39 @@
 | 10 | Typically standard dependencies and operating systems are provided by the research infrastructures                                                                                                                                                          |                                                                                                                                                                                                                                                        |
 | 22 |                                                                                                                                                                                                                                                             | SonarQube suite                                                                                                                                                                                                                                        |
 
+## Auto-created summary
+### Summary of Mentioned Practices
+
+- **Test Suites and Frameworks** (High Relevance)  
+  Implementing test batteries using frameworks such as Google Test, cTest, JUnit, and pytest. These tools facilitate validation against reference values and ensure output correctness and accuracy. 
+
+- **Profiling and Optimization** (High Relevance)  
+  Regular performance assessments and C++/GPU profiling tools like Valgrind, perf, nsight systems, and hardware-specific profilers like Nvidia Nsight tools, are essential for code profiling and optimization cycles. 
+
+- **Code Efficiency and Speed Techniques** (Medium-High Relevance)  
+  Adopt general software engineering best practices, teaching computing architectures, and updating algorithms based on the latest research to enhance code efficiency and speed.
+
+- **Performance Monitoring and Tools** (Medium-High Relevance)  
+  Use profiling tools like VisualVM, JProfiler, and standard techniques for static and dynamic analysis to monitor performance and optimize for execution speed and memory leak analysis. 
+
+- **Modular Design and Extendability** (Medium Relevance)  
+  Applying modular design principles, design patterns supporting extension, and publishing functionalities as reusable libraries to enhance extendability and simplify dependency management with tools like Maven and Gradle.
+
+- **Maintainability Practices** (Medium Relevance)  
+  Enforcing CI workflows and code documentation standards, complemented by CI tools like pylint, ruff, mypy, and documentation tools such as Sphinx and Doxygen, improves software project maintainability.
+
+- **Algorithm Study and Update** (Medium Relevance)  
+  Emphasis on the study of algorithm efficiency, Big O notation, and continuous updates based on current research for algorithm performance enhancement.
+
+- **Community and Educational Initiatives** (Low-Moderate Relevance)  
+  Involvement in educational initiatives such as CERN schools and thematic schools on performance engineering fosters community-specific knowledge and skill advancement in various aspects of computing.
+
+### Table of Linked URLs
+
+| URL                                                                                                               | Description                                                      |
+|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| [https://codingspeedtest.com](https://codingspeedtest.com)                                                        | A tool mentioned for assessing code speed and efficiency.        |
+| [https://acts.readthedocs.io/en/latest/contribution/physmon.html](https://acts.readthedocs.io/en/latest/contribution/physmon.html) | Documentation for performance monitoring in physics simulations. |
+| [https://acts.readthedocs.io/en/latest/contribution/profiling.html](https://acts.readthedocs.io/en/latest/contribution/profiling.html)   | Documentation on profiling techniques and tools.                 |
 ## Quality aspects: Performance
 

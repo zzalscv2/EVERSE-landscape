@@ -45,5 +45,22 @@
 |---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|
 | 10 | recently, the EU OSCARS project [https://oscars-project.eu](https://oscars-project.eu) had funding opportunities for research including software - this is an example for side funding: | side funding |
 
+## Auto-created summary
+### Summary of Practices
+
+- **Maintenance Funding**: There is a significant gap in financial support for software maintenance across research projects, which affects long-term maintenance viability, with funding often required for both researchers and hardware infrastructure.
+- **Quality Assurance**: Limited to no funding is reported for ensuring software quality, affecting the development of high-quality research software.
+- **Permanent Positions for Research Software Engineers (RSEs)**: There is almost no funding available for permanent RSE positions, which could help in maintaining and improving research software.
+- **Infrastructure Access**: Many projects face a lack of continued financial support for necessary infrastructure to run software.
+- **Funding Focus**: Most available funds are focused on initial development rather than maintenance and archiving.
+
+### Linked URLs Table
+
+| URL                                                                                                                        | Description                                    |
+|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| [https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/infrastruktur/lis/lis-foerderangebote/forschungssoftwareinfrastrukturen](https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/infrastruktur/lis/lis-foerderangebote/forschungssoftwareinfrastrukturen)  | German DFG program for research software infrastructures |
+| [https://www.archer2.ac.uk/ecse/](https://www.archer2.ac.uk/ecse/)                                                        | Funding for technical professionals to work on research code |
+| [https://www.esciencecenter.nl](https://www.esciencecenter.nl)                                                            | Netherlands eScience Centre funding           |
+| [https://oscars-project.eu](https://oscars-project.eu)                                                                    | EU OSCARS project with side funding opportunities for research including software |
 ## Financial support
 

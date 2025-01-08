@@ -39,5 +39,33 @@
 |---:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 12 | We don't have guidelines for this, but in the past we used codecov (although a person needs to check coverage)                                                                                                                                        | [https://about.codecov.io/](https://about.codecov.io/)                                                                                                                                                                                           |
 
+## Auto-created summary
+### Summary of Practices
+
+- **Version Control:**
+  - *Git*: Ubiquitously used for version control and is the de facto standard.
+  - *GitHub*: Commonly used in conjunction with Git for repository management.
+  - *OSS Guidelines*: Incorporates version control, such as Git, into standard practice ([OSSR Guidelines](https://escape-ossr.gitlab.io/ossr-pages/page/contribute/guidelines_ossr/)).
+
+- **Continuous Integration:**
+  - *GitHub Actions*: Utilize GitHub's built-in actions to automate workflows ([GitHub Actions Documentation](https://docs.github.com/en/actions)).
+  - *GitLab and GitHub CI*: Popular choices for continuous integration workflows.
+
+- **Testing and Benchmarking:**
+  - *Test Suites*: Primarily driven by tools like CTest and Google Test.
+  - *Pytest*: Frequently used library for testing in Python ([Python unittest Documentation](https://docs.python.org/3/library/unittest.html)).
+  - *Integration and Regression Testing*: Standard practices include these types of testing.
+
+- **Coverage Evaluation:**
+  - *Codecov*: Previously used tool for evaluating test coverage, though requires manual checks ([Codecov](https://about.codecov.io/)).
+
+### Table of Linked URLs
+
+| URL                                                                                                             | Description                                            |
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| [https://escape-ossr.gitlab.io/ossr-pages/page/contribute/guidelines_ossr/](https://escape-ossr.gitlab.io/ossr-pages/page/contribute/guidelines_ossr/) | Open-source scientific research (OSSR) contribution guidelines |
+| [https://docs.github.com/en/actions](https://docs.github.com/en/actions)                                       | GitHub Actions documentation for automating workflows  |
+| [https://docs.python.org/3/library/unittest.html](https://docs.python.org/3/library/unittest.html)             | Official documentation for Python's unittest library   |
+| [https://about.codecov.io/](https://about.codecov.io/)                                                         | Codecov coverage analysis tool                         |
 ## Quality aspects: Testing and Reliability
 

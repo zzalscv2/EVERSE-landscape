@@ -93,5 +93,59 @@
 |    | [https://posit.co/](https://posit.co/)                                                                                                                                                                                                                           |                                                                                       |                                                                                                                                                                                             |
 | 27 | [https://helmholtz.software,](https://helmholtz.software,) [https://helmholtz.software,](https://helmholtz.software,) [https://www.softwareheritage.org](https://www.softwareheritage.org)                                                                       | Open/free platform; Institute or Organization; Large scale infrastructure             | no                                                                                                                                                                                          |
 
+## Auto-created summary
+### Summary of Mentioned Practices
+
+#### 1. **OpenDMP and ARGOS**
+   - **Description**: Open extensible service for managing Data Management Plans (DMPs) that assists in the management, validation, monitoring, and maintenance of DMPs, facilitating exchanges among infrastructures.
+   - **Relevance**: Key tool for managing research data, ensuring compliance with data management requirements.
+   - **Link**: [ARGOS](https://argos.openaire.eu/splash/about/how-it-works.html)
+
+#### 2. **GitHub and GitLab**
+   - **Description**: Widely used platforms for code hosting, development, version control, and project management, with capabilities like CI/CD pipelines.
+   - **Relevance**: Central tools for software development and maintenance across various projects.
+   - **Links**: [GitHub](https://github.com), [GitLab](https://gitlab.com)
+
+#### 3. **Zenodo and Software Heritage**
+   - **Description**: Platforms for archiving research outputs, including software, data, and publications, offering long-term preservation solutions.
+   - **Relevance**: Crucial for ensuring the availability and integrity of research outputs.
+   - **Links**: [Zenodo](https://zenodo.org), [Software Heritage](https://www.softwareheritage.org/)
+
+#### 4. **Netherlands eScience Center**
+   - **Description**: Provides infrastructure support for both planning and development phases in projects, though currently considering focusing solely on planning.
+   - **Relevance**: Supports research efforts by combining planning with development support for comprehensive project management.
+
+#### 5. **CERN GitLab and Issue Tracking**
+   - **Description**: GitLab instances with integrated storage and compute infrastructure, along with a JIRA instance for issue tracking.
+   - **Relevance**: Essential for managing large-scale, complex scientific projects with significant computational needs.
+
+#### 6. **Open Source Software Repositories**
+   - **Description**: Repositories such as npmjs.com, pypi.org, and bioconda, are used for distribution and maintenance of software packages.
+   - **Relevance**: Supports the longevity and accessibility of software through widespread distribution.
+
+#### 7. **Data Repositories like B2SHARE and CLARIN**
+   - **Description**: Platforms for sharing and preserving data within specific communities or institutions, ensuring compliance with data governance policies.
+   - **Relevance**: Important for fostering collaboration and ensuring data integrity and availability.
+   - **Links**: [B2SHARE](https://b2share.eudat.eu), [CLARIN](https://www.clarin.eu/content/clarin-nutshell)
+
+### Linked URLs and Descriptions
+
+| URL                                               | Description                                                                                   |
+|---------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| [https://argos.openaire.eu/splash/about/how-it-works.html](https://argos.openaire.eu/splash/about/how-it-works.html) | Description of how the ARGoS DMP tool functions.                                              |
+| [https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/best-practices-for-projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/best-practices-for-projects) | GitHub documentation on best practices for planning and tracking projects.                     |
+| [https://github.com](https://github.com)          | GitHub platform for hosting, version control, and collaboration.                             |
+| [https://gitlab.com](https://gitlab.com)          | GitLab platform for hosting and managing software development projects.                       |
+| [https://gitlab.bsc.es](https://gitlab.bsc.es)    | BSC's GitLab instance for software development.                                               |
+| [https://git.km3net.de](https://git.km3net.de)    | Git repository hosting specifically for KM3NeT collaboration.                                 |
+| [https://gitlab.in2p3.fr](https://gitlab.in2p3.fr)| IN2P3's GitLab instance used for software development.                                        |
+| [https://information-technology.web.cern.ch/services](https://information-technology.web.cern.ch/services) | CERN's IT services and infrastructure offerings.                                               |
+| [https://mybinder.org/](https://mybinder.org/)    | MyBinder platform for making repositories executable by anyone, anywhere.                     |
+| [https://edatos.consorciomadrono.es/](https://edatos.consorciomadrono.es/) | Data repository used by public universities in Madrid, Spain.                                 |
+| [https://zenodo.org](https://zenodo.org)          | Zenodo platform for archiving and sharing research outputs.                                   |
+| [https://osf.io](https://osf.io)                  | Open Science Framework (OSF) for collaboration, management, and archiving projects.           |
+| [https://www.softwareheritage.org](https://www.softwareheritage.org) | Software Heritage: an archive of software source code for ensuring the preservation of software.|
+| [https://posit.co/](https://posit.co/)            | Platform formerly known as RStudio, providing tools for data science teams.                   |
+| [https://codebase.helmholtz.cloud,](https://codebase.helmholtz.cloud) | Helmholtz Cloud's codebase repository for software sharing and development.                   |
 ## Infrastructure support
 

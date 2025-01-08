@@ -49,5 +49,35 @@
 |  0 | I'm interested in software discovery and once held a presentation about software quality indicators visible on discovery platforms.                                                                                                               |
 | 10 | The habits of software development, maintenance and usage in the astro-particle community is diverse. This is - in parts - driven by the large experiments and research infrastructures involved that provide their own guidelines and practices. |
 
+## Auto-created summary
+**Summary of Mentioned Practices**
+
+1. **Read the Docs & Sphinx**
+   - Used for providing general documentation, these tools are widely recognized for their effectiveness in creating and hosting technical documentation.
+
+2. **Documentation Guidelines**
+   - General guidelines such as [freeCodeCamp's guide on writing a good README](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) are suggested for structuring documentation.
+
+3. **Publication Practices**
+   - Publishing in peer-reviewed journals (e.g., Springer CSBS, JHEP) and open-access platforms (e.g., arXiv.org, Zenodo) for scientific publications is emphasized.
+
+4. **Jupyter Notebooks**
+   - Recommended for providing user examples, especially in research software due to their interactivity and comprehensiveness.
+
+5. **CodeMeta and CFF Files**
+   - Tools like [CodeMeta](https://codemeta.github.io) and CFF (Citation File Format) are used for comprehensive metadata description, with generators and initializers available for ease of creation.
+
+6. **Peer-Reviewed Journals & Open-Access Platforms**
+   - The Journal of Open Source Software is mentioned as a publication venue, reinforcing the importance of disseminating research software results.
+
+**Linked URLs and Descriptions**
+
+| URL                                                                                             | Description                                                               |
+|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) | Resource for guidelines on writing effective README files                 |
+| [https://codemeta.github.io](https://codemeta.github.io)                                         | Official website for CodeMeta, a project for creating metadata for software |
+| [https://codemeta.github.io/codemeta-generator/](https://codemeta.github.io/codemeta-generator/) | Generator for creating CodeMeta files                                      |
+| [https://github.com/KnowledgeCaptureAndDiscovery/somef/](https://github.com/KnowledgeCaptureAndDiscovery/somef/) | Tool for automating the generation of software metadata                    |
+| [https://citation-file-format.github.io/cff-initializer-javascript/#/](https://citation-file-format.github.io/cff-initializer-javascript/#/) | CFF (Citation File Format) initializer tool for creating citation files   |
 ## Quality aspects: Documentation
 

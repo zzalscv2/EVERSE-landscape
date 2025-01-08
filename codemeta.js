@@ -10,4 +10,17 @@
     "description": "Outcome and analysis of the EVERSE software quality survey.",
     "readme": "https://github.com/YouSchnabel/EVERSE-landscape/blob/main/README.md",
     "softwareVersion": "0.1",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Jutta",
+            "familyName": "Schnabel",
+            "email": "jutta.schnabel@fau.de",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "FAU Erlangen, ECAP"
+            }
+        }
+    ]
+
 }

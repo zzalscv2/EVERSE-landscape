@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 import re
+import openai
 
 from surveyer.surveyreader import DataSet
 
@@ -26,10 +27,11 @@ class ReportMaker:
         if datasetpath:
             self.dataset = DataSet(datasetpath)
 
-    def create_report(self, output="display", writepdf=False):
+    def create_report(self, output="display", writepdf=False, add_gpt = False):
         """Creates the full report from the provided configuration (structure.yml) file.
         Can output to notebook (display) or as markdown files (pages).
-        If 'writepdf' is set, a summary markdown and pdf is produced. You can set the pdfname in the configuration file."""
+        If 'writepdf' is set, a summary markdown and pdf is produced. You can set the pdfname in the configuration file.
+        If 'add_gpt' is selected, a summary created with ChatGPT is added. You can add the api key in the configuration file as 'api_key'."""
 
         if not self.conf:
             print("You did not provide a config file!")
@@ -151,6 +153,14 @@ class ReportMaker:
                                 os.remove(self.outpath + "pages/figures/" + plotname)
                             shutil.move(plotname, self.outpath + "pages/figures/")
                         elements.append("![" + title + "](figures/" + plotname + ")")
+
+                if add_gpt and "api_key" in self.conf:
+                    alltext = ""
+                    for element in elements:
+                        alltext += element +"\n\n"
+                    gpt_outcome = self.make_gpt_summary(alltext, api_key = self.conf["api_key"])
+                    elements.append("## Auto-created summary")
+                    elements.append(gpt_outcome)
 
                 if output == "display":
                     for element in elements:
@@ -547,6 +557,29 @@ class ReportMaker:
 
         return filename
 
+    def make_gpt_summary(self, text, prompt= "", model = "gpt-4o", api_key = ""):
+        """Create markdown output with ChatGPT"""
+
+        if not prompt:
+            prompt = "Provide a summary of the following text, extracting all mentioned practices as bullet point list, "+\
+            "ordered by relevance and with a short description, "+\
+            "and adding below a markdown formatted table of all linked URLs and a description of the link."
+
+        prompt =prompt+" Here is the text:\n\n"+text
+
+        client = openai.OpenAI(
+            api_key=api_key,
+        )
+    
+        chat_completion = client.chat.completions.create(
+            messages=[
+                {"role": "system", "content": "You help to analyse the outcomes of a survey"},
+                {"role": "user", "content": prompt}
+            ],
+            model=model,
+            )
+        
+        return chat_completion.choices[0].message.content
 
 def _format_urls_in_text(text):
     # Regular expression to match URLs

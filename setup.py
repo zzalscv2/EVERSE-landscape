@@ -8,7 +8,10 @@ from setuptools import setup
 import sys
 import json
 
-pinfo = json.loads(open("codemeta.js", "r").read())
+try:
+    pinfo = json.loads(open("codemeta.js", "r").read())
+except:
+    pinfo = {}
 
 def read_stripped_lines(filename):
     """Return a list of stripped lines from a file"""

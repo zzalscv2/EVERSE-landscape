@@ -62,5 +62,33 @@
 | 12 | State license in code and in the source code repository                                                                                                                                                                                  | [https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) |
 | 15 | open-source and permissive                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                          |
 
+## Auto-created summary
+### Summary of Practices
+
+- **User-Centered Design Principles**
+  - Importance of design principles and UX best practices to optimize GUI or API usability.
+- **Containerization Best Practices**
+  - Use of containerization for reproducibility and deployment with tools like Docker and Kubernetes.
+- **Cross-Platform Development Practices**
+  - Ensure compatibility across platforms with responsive design principles and tools such as BrowserStack and Electron.
+- **GitHub & Zenodo for Code Citation**
+  - Utilize platforms like GitHub and Zenodo to make code citable and obtain DOIs.
+- **Open-Source Licensing Practices**
+  - Guidance on applying open-source licenses and compliance, with support from initiatives like the Open Source Initiative and CERN's OSPO.
+
+### Table of URLs
+
+| URL | Description |
+|-----|-------------|
+| [https://escape-ossr.gitlab.io/ossr-pages/page/services/containerization/](https://escape-ossr.gitlab.io/ossr-pages/page/services/containerization/) | Information on containerization services provided by OSSR. |
+| [https://escape-ossr.gitlab.io/ossr-pages/page/contribute/guidelines_ossr/](https://escape-ossr.gitlab.io/ossr-pages/page/contribute/guidelines_ossr/) | Guidelines for contributing to OSSR projects. |
+| [https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/](https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/) | Guide for creating and uploading Python packages to PyPI. |
+| [https://www.docker.com/101-tutorial/](https://www.docker.com/101-tutorial/) | Docker's official tutorial for beginners. |
+| [https://arxiv.org/abs/2309.14571](https://arxiv.org/abs/2309.14571) | Academic paper discussing CIF files and code citation efforts. |
+| [https://zenodo.org/doi/10.5281/zenodo.7540575](https://zenodo.org/doi/10.5281/zenodo.7540575) | Example of using Zenodo for DOI minting. |
+| [https://citation-file-format.github.io/](https://citation-file-format.github.io/) | Information on the Citation File Format (CFF) for citing software. |
+| [https://opensource.web.cern.ch/welcome-ospo-page](https://opensource.web.cern.ch/welcome-ospo-page) | CERN Open Software Programming Office page. |
+| [https://hepsoftwarefoundation.org/activities/licensing.html](https://hepsoftwarefoundation.org/activities/licensing.html) | HSF's guidelines on software licensing. |
+| [https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) | GitHub’s guide on adding a license to a repository. |
 ## Quality aspects: Usability
 

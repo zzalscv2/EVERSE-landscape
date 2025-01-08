@@ -29,5 +29,37 @@
 ### Level of confidence for answers in this section
 
 ![Level of confidence for answers in this section](figures/plot_rating_A86.png)
+## Auto-created summary
+### Summary of Software Security Practices
+
+- **Protection from Malware**
+  - Highest risk in software security; involves using dependency analysis and staying updated on library vulnerabilities.
+  
+- **Secure Data Storage and Backups**
+  - Recommendations include having multiple automatically created backups using the 3-2-1 rule.
+
+- **Accuracy and Validation of Code**
+  - Involves testing and validating using community-derived benchmarks, particularly important for algorithms impacting scientific results.
+
+- **Accuracy in Publication**
+  - Best scientific practices should include accuracy checks as part of publication quality control.
+
+- **Mitigation of Misuse**
+  - Strategies developed by experts, such as implementing API throttling to prevent misuse of resources.
+
+- **Archival/Sustainability and Trust**
+  - Mention of the 5 Safes framework and trusted environments like Safe Havens for archival and sustainable practices.
+
+- **Reliability Standards**
+  - Defined typically in computing and software management plans as seen in documentation from institutions like the eScience Centre.
+
+### Table of Linked URLs
+
+| URL | Description |
+|-----|-------------|
+| [https://www.seagate.com/it/it/blog/what-is-a-3-2-1-backup-strategy/](https://www.seagate.com/it/it/blog/what-is-a-3-2-1-backup-strategy/) | Guideline for creating secure data backups using the 3-2-1 strategy. |
+| [https://acts.readthedocs.io/en/latest/acts_project.html](https://acts.readthedocs.io/en/latest/acts_project.html) | Resource for testing and validating code accuracy using benchmarks. |
+| [https://www.esciencecenter.nl/wp-content/uploads/2021/07/SMP2021-v1.057.pdf](https://www.esciencecenter.nl/wp-content/uploads/2021/07/SMP2021-v1.057.pdf) | Example of reliability standards in computing and software management plans. |
+| [https://www.tibco.com/glossary/what-is-api-throttling](https://www.tibco.com/glossary/what-is-api-throttling) | Explanation of API throttling as a strategy to prevent misuse. |
 ## Software security
 

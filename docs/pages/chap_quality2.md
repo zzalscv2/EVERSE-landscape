@@ -31,5 +31,32 @@
 | 12 | same as above                                                                                                                                                                                                                                      | [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)                                                                                                                                                                      |
 | 20 | Publish code into standard repositories, publish Docker containers to easily install softwares                                                                                                                                                     | GitHub, Docker, Docker registries, apt repository (for Debian/Ubuntu linux)                                                                                                                                                                   |
 
+## Auto-created summary
+### Summary of Mentioned Practices:
+
+- **Use Standard Protocols and APIs**
+  - **GA4GH Cloud Workstream Standards**: Standards provided by GA4GH for cloud workstream interoperability.
+  - **OpenAPI and SPARQL**: Use standard API specifications like OpenAPI and query languages like SPARQL.
+  - **Standard HTTP Error Responses**: Implement standard HTTP responses with meaningful error code distinctions between client and server errors.
+
+- **Use Coding Conventions and Style**
+  - **Community Accepted Conventions**: Follow coding conventions recognized by the community.
+  - **Google Coding Styles**: Several community conventions align with Google's coding styles.
+  - **IDE Tools like PyCharm**: Utilize integrated development environments like PyCharm for suggestions on following established guidelines.
+  - **Automatic Formatting and Linters**: Employ developer tools with automatic formatting and error highlighting to maintain standard coding conventions.
+
+- **Ensure Reusability of Code**
+  - **Semantic Versioning and Stable API**: Provide semantic versioning and a stable API, marking backward incompatible changes with significant version updates.
+  - **Publishing and Repositories**: Publish reusable code in standard repositories and provide Docker containers for easy software installation.
+
+### Table of Linked URLs
+
+| URL                                                                                  | Description                                                     |
+|--------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| [https://www.ga4gh.org/work_stream/cloud/](https://www.ga4gh.org/work_stream/cloud/) | GA4GH Cloud Workstream standards                                |
+| [https://www.openapis.org/what-is-openapi](https://www.openapis.org/what-is-openapi) | Information on OpenAPI specification                            |
+| [https://www.w3.org/TR/sparql11-query/](https://www.w3.org/TR/sparql11-query/)       | W3C documentation for SPARQL 1.1 Query Language                  |
+| [https://google.github.io/styleguide/cppguide.html](https://google.github.io/styleguide/cppguide.html) | Google coding style guidelines for C++                        |
+| [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)             | PyCharm IDE by JetBrains                                        |
 ## Quality aspects: Standardization
 
